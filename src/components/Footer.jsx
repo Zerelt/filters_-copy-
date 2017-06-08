@@ -8,7 +8,7 @@ export default class Footer extends React.Component {
           <img src={require('../images/download@2x.png')} />
         </a>
         <p>Filters for iPhone was designed & built by Mike Rundle.{'\u00A0'}
-          <a href='http://twitter.com/flyosity'>Follow him on Twitter.</a>
+          <a href='http://twitter.com/flyosity' target='_blank'>Follow him on Twitter.</a>
         </p>
       </div>
     );

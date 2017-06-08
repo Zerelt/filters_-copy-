@@ -19,12 +19,12 @@ export default class Modal extends React.Component {
           </p>
           <br/>
           <p>In case you got here by chance and haven't gone through my website: Hi, My name is Alex ! Feel free
-            to have a look at <a href='https://alexander.netlify.com'>my projects</a> and maybe say Hi :) .</p>
+            to have a look at <a href='https://alexander.netlify.com' target='_blank'>my projects</a> and maybe say Hi :) .</p>
           <br/>
           <p>{'\u00A0'}{'\u00A0'}{'\u00A0'}All the links go to the real Application in the Apple App Store and social media
             points to the social media of the author of the original site</p>
           <br/>
-          <p>To visit the original site please <a href='http://flyosity.com/filters/'>click here</a> .</p>
+        <p>To visit the original site please <a href='http://flyosity.com/filters/' target='_blank'>click here</a> .</p>
         </div>
       </div>
     );
